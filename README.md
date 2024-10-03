@@ -16,7 +16,7 @@
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/ingrid-vanessa-rueda-arteaga-3136b3286/)
 
 ## ✨ Logo
-![Logo](https://drive.google.com/file/d/1tf1OgZvHPZ4Z44zW4UWNI-yB_JiiaPTf/view?usp=sharing)
+![Logo](https://ibb.co/b2F7p4V)
 
 
   
