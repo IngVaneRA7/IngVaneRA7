@@ -23,6 +23,7 @@ Soy Arquitecta Residente en Crear Arquitectura e Ingeniería S.A.S., pero tambi�
 ## 📫 Cómo contactarme 
 - Correo electrónico: ingvaner7@gmail.com 
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/ingrid-vanessa-rueda-arteaga-3136b3286/)
+- Instagram: [Perfil de Instagram](https://www.instagram.com/invaner7/)
 
 ## ✨ Logo
 
