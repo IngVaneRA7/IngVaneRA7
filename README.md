@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! mi nombre es Ingrid Vanessa Rueda
 
-<!--
-**IngVaneRA7/IngVaneRA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About me
+- 🔭 Actualmente trabajo como Arquitecta Residente en **Crear Arquitectura e Ingeniería S.A.S**.
+- 🌱 Estoy aprendiendo: **Python**, **Flexbox** y **gestión de proyectos en GitHub**.
+- 👨‍💻 Me interesa: **Desarrollo web**, **metodologías ágiles** y **automatización**.
+- ✍️ También estoy aprendiendo sobre **herramientas de gestión de proyectos** como **Asana** y **Azure DevOps**.
+- 🎯 Objetivos: Mejorar mis habilidades en **JavaScript**, **diseño responsivo** y **colaboración en equipo**.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías que estoy utilizando
+- **Lenguajes:** Python, HTML, CSS, JavaScript
+- **Herramientas:** Git, GitHub, Trello, Visual Studio Code
+- **Frameworks:** Bootstrap, Flexbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Cómo contactarme 
+- Correo electrónico: ingvaner7@gmail.com 
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/ingrid-vanessa-rueda-arteaga-3136b3286/)
