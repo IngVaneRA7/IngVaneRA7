@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ingrid Vanessa Rueda
+# ¡Hola! Soy Ingrid Vanessa Rueda
 
 ## 👷🏼‍♀️ Arquitecta & Desarrolladora en formación 💻
 
