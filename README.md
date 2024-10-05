@@ -27,7 +27,7 @@ Soy Arquitecta Residente en Crear Arquitectura e Ingeniería S.A.S., pero tambi�
 
 ## ✨ Logo
 
-![Logo](<a href="https://ibb.co/b2F7p4V"><img src="https://i.ibb.co/2sS5Xzr/logo.jpg" alt="logo" border="0"></a>)
+![](<a href="https://ibb.co/b2F7p4V"><img src="https://i.ibb.co/2sS5Xzr/logo.jpg" alt="logo" border="0"></a>)
 
 
   
