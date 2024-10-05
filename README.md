@@ -2,7 +2,7 @@
 
 ## 👷🏼‍♀️ Arquitecta & Desarrolladora en formación 💻
 
-Soy Arquitecta Residente en Crear Arquitectura e Ingeniería S.A.S., pero también me apasiona la tecnología y el desarrollo de software. Actualmente estoy aprendiendo a     combinar mis habilidades en arquitectura con el poder de la programación.
+Soy Arquitecta Residente en Crear Arquitectura e Ingeniería S.A.S., pero también me apasiona la tecnología y el desarrollo de software. Actualmente, estoy explorando la unión entre la arquitectura y la programación para llevar mis proyectos al siguiente nivel.
 
 ## 💻 Lo que estoy aprendiendo:
 
